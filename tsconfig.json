@@ -17,6 +17,7 @@
     "src/bin/typings-install.ts",
     "src/bin/typings-list.ts",
     "src/bin/typings-search.ts",
+    "src/bin/typings-info.ts",
     "src/bin/typings-uninstall.ts",
     "src/typings.ts",
     "typings/main.d.ts",

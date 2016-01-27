@@ -31,7 +31,9 @@ const ALIASES: { [cmd: string]: string } = {
   // Bundle.
   bundle: 'bundle',
   // Search.
-  search: 'search'
+  search: 'search',
+  // Info.
+  info: 'info',
 }
 
 interface Args {
